@@ -1,4 +1,6 @@
-/*sudoku puzzle*/
+/*sudoku puzzle---
+this is free for anyone to use :) */
+
 #include<stdio.h>
 int board[9][9];
 int i,j,k,m,n,valid,error_code;
