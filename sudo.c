@@ -1,5 +1,5 @@
-/*sudoku puzzle---
-this is free for anyone to use :) */
+/*-----sudoku puzzle---
+this is free for anyone to use :) the final disp function is not yet ready it needs slight modification to show the final board */
 
 #include<stdio.h>
 int board[9][9];
